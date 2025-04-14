@@ -12,6 +12,6 @@ Ao iniciar, o jogador recebe uma dica e consegue visualizar a quantidade de letr
 - JavaScript
 - HTML5
 - CSS3
-- 
+
 ## Contato
 [Linkedin](https://www.linkedin.com/in/analuizamarcalfreitas/)
